@@ -166,3 +166,10 @@
 #     x = 10 / 0
 # except ZeroDivisionError:
 #     print("error:division by zero is not allowed")
+#modules
+def add(a,b):
+    return print(a + b)
+add(45,50)
+
+import math
+print(math.pi)
